@@ -8,7 +8,7 @@ Here is the list of the types Pookie Bear walked us through during the session: 
 - Sequence Types: list, tuple
 - Text Sequence Type: str
 - Set Types: set, frozenset
-- Mapping Type: dict
+- Hash Mapping Type: dict
 
 For more information on Python Built-in types, please check out the official documentation:
 https://docs.python.org/3/library/stdtypes.html <br>
